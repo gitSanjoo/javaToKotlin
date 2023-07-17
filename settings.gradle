@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "JavaToKotlin"
 include ':app'
+include ':testModule'
